@@ -1,0 +1,1 @@
+When we import _.json_ files into our js files, Webpack automatically parses them for us. No need to _JSON.parse()_ them.

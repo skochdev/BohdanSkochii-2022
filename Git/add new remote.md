@@ -1,0 +1,1 @@
+`git remote add bsko  https://github.com/paulboone/ticgit`
